@@ -1,64 +1,78 @@
-<h1 align="center">Vivek Kumawat</h1>
+<h1 align="center">Hi 👋, I'm Vivek Kumawat</h1>
+
+<h3 align="center">
+AI / ML focused Computer Science student building intelligent systems and practical machine learning projects.
+</h3>
 
 <p align="center">
-AI & Machine Learning Engineer
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+%7C+Machine+Learning+Engineer;Building+Intelligent+Systems;Exploring+ML+From+First+Principles;Always+Learning+Always+Building" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=vivek-i8&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%7C+Machine+Learning+Engineer;Building+Intelligent+Systems;Exploring+ML+From+First+Principles;Always+Learning+Always+Building" />
 </p>
 
 ---
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding.gif" width="650"/>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding.gif" width="600"/>
 </p>
 
 ---
 
-## About Me
-
-Computer Science student focused on **Artificial Intelligence and Machine Learning**.
-
-I enjoy building **real-world AI systems**, exploring **ML fundamentals**, and developing strong engineering skills.
-
-Areas I’m currently exploring:
-
-- Machine Learning Systems  
-- Natural Language Processing  
-- AI authenticity detection  
-- Intelligent software products  
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=vivek-i8&label=Profile%20views&color=0e75b6&style=flat" alt="vivek-i8" />
+</p>
 
 ---
 
-## Tech Stack
+## 🚀 About Me
 
-<p align="center">
+- 🎓 B.Tech CSE (AI & ML) student at **Jain University, Bangalore**
+- 🧠 Interested in **Machine Learning, NLP and AI Systems**
+- 🛠 Currently building **AI-powered projects and learning ML engineering**
+- 🌐 Explore my work and projects on my portfolio  
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,cpp,js,react,nodejs,docker,linux,git&perline=6" />
+👉 **Portfolio:**  
+https://vivekkumawat-portfolio.vercel.app
+
+📫 **Reach me at:**  
+vivekk.codes@gmail.com
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://twitter.com/vivekxspace" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vivekxspace" height="30" width="40" />
+</a>
+
+<a href="https://instagram.com/vivekk.codes" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivekk.codes" height="30" width="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/vivekkumawat18" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 🧰 Languages and Tools
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
 
 </p>
 
 ---
 
-## Featured Projects
-
-### VAANI  
-Voice Authenticity Detection system that identifies whether an audio sample is human or AI generated.
-
-### Talk2Web  
-AI powered system allowing users to interact with websites using natural language.
-
-### Lumina  
-AI driven project exploring intelligent digital experiences.
-
----
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -70,7 +84,7 @@ AI driven project exploring intelligent digital experiences.
 
 ---
 
-## Contribution Activity
+## 🔥 GitHub Activity
 
 <p align="center">
 
@@ -80,46 +94,10 @@ AI driven project exploring intelligent digital experiences.
 
 ---
 
-## 3D Contribution Graph
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivek-i8&theme=tokyonight">
-
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vivek-i8&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-## Connect With Me
-
-<p align="center">
-
-<a href="https://vivekkumawat-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/vivekkumawat18">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:vivekk.codes@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://x.com/vivekxspace?s=21">
-<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white">
-</a>
-
+<img src="https://github-profile-trophy.vercel.app/?username=vivek-i8&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -135,9 +113,3 @@ AI driven project exploring intelligent digital experiences.
 <p align="center">
 Always learning • Always building
 </p>
-
----
-
-## Contribution Snake
-
-![snake gif](https://github.com/vivek-i8/vivek-i8/blob/output/github-contribution-grid-snake.svg)
