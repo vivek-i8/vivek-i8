@@ -15,8 +15,6 @@
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding.gif" width="600"/>
 </p>
 
----
-
 ## About
 
 🎓 B.Tech CSE (AI & ML) student at **Jain University, Bangalore**
