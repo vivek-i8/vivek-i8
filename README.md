@@ -66,24 +66,6 @@ vivekk.codes@gmail.com
 
 ---
 
-## 🔥 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-i8&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vivek-i8&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/line-neon.gif">
 </p>
@@ -93,5 +75,5 @@ vivekk.codes@gmail.com
 </p>
 
 <p align="center">
-<i>Always learning • Always building</i>
+<i>Always Building • Always Learning</i>
 </p>
