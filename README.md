@@ -25,7 +25,7 @@ I enjoy working on projects involving:
 
 - Machine Learning Systems  
 - Natural Language Processing  
-- AI authenticity detection  
+- Applied AI
 - Intelligent software applications  
 
 🌐 **Explore my projects:**  
