@@ -9,7 +9,6 @@
 <img src="https://komarev.com/ghpvc/?username=vivek-i8&label=Profile%20Views&color=58A6FF&style=flat" />
 </p>
 
----
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding.gif" width="600"/>
@@ -34,7 +33,6 @@ https://vivekkumawat-portfolio.vercel.app
 📫 **Contact:**  
 vivekk.codes@gmail.com
 
----
 
 ## Connect
 
@@ -54,7 +52,6 @@ vivekk.codes@gmail.com
 
 </p>
 
----
 
 ## Languages & Tools
 
@@ -64,7 +61,6 @@ vivekk.codes@gmail.com
 
 </p>
 
----
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/line-neon.gif">
