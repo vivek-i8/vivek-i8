@@ -69,20 +69,17 @@ A semantic movie recommendation engine using sentence embeddings and determinist
 
 ---
 
-<p align="center" style="margin-bottom: 24px;"><em>my version of caffeine</em></p>
+<p align="center"><em>my version of caffeine</em></p>
 
-<div align="center">
-  <div align="left" style="display: inline-flex; align-items: center; gap: 18px; text-align: left;">
-    <a href="https://open.spotify.com/track/6rFckZb1cuJYzsZiGHgqks"><img align="left" width="120" height="120" src="./assets/music/52_bars.jpg" alt="52 Bars - Karan Aujla" style="border-radius: 6px; display: block;"/></a>
-    <div style="display: flex; flex-direction: column; gap: 5px;">
-      <b style="font-size: 15px;">52 Bars</b>
-      <sub>Karan Aujla</sub>
-      <img src="./assets/music/waveform.gif" width="125" height="24" alt="Audio Visualizer" style="display: block; margin: 3px 0;"/>
-      <a href="https://open.spotify.com/track/6rFckZb1cuJYzsZiGHgqks">↗ Spotify</a>
-    </div>
-    <br clear="left"/>
-  </div>
-</div>
+<p align="center">
+  <a href="https://open.spotify.com/track/6rFckZb1cuJYzsZiGHgqks"><img src="./assets/music/52_bars.jpg" width="115" height="115" valign="middle" alt="52 Bars - Karan Aujla" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <b>52 Bars</b> &nbsp;·&nbsp; <sub>Karan Aujla</sub>
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/music/waveform.gif" width="120" height="22" valign="middle" alt="Audio Visualizer" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://open.spotify.com/track/6rFckZb1cuJYzsZiGHgqks">↗ Spotify</a>
+</p>
 
 ---
 
