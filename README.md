@@ -80,7 +80,7 @@ A semantic movie recommendation engine using sentence embeddings and determinist
       <td valign="middle" align="left">
         <b>52 Bars</b><br/>
         <sub>Karan Aujla</sub><br/><br/>
-        <img src="./assets/music/waveform.gif" width="125" height="24" alt="Audio Visualizer" /> &nbsp;
+        <img src="./assets/music/waveform.gif" width="125" height="24" alt="Audio Visualizer" /><br/>
         <a href="https://open.spotify.com/track/6rFckZb1cuJYzsZiGHgqks">↗ Spotify</a>
       </td>
     </tr>
