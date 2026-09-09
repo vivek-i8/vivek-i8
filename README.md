@@ -69,17 +69,18 @@ A semantic movie recommendation engine using sentence embeddings and determinist
 
 ---
 
-<p align="center"><em>my version of caffeine</em></p>
+<p align="center" style="margin-bottom: 24px;"><em>my version of caffeine</em></p>
 
-<p align="center">
-  <a href="https://open.spotify.com/track/6rFckZb1cuJYzsZiGHgqks"><img src="./assets/music/52_bars.jpg" width="115" height="115" valign="middle" alt="52 Bars - Karan Aujla" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <b>52 Bars</b> &nbsp;·&nbsp; <sub>Karan Aujla</sub>
-  &nbsp;&nbsp;&nbsp;
-  <img src="./assets/music/waveform.gif" width="120" height="22" valign="middle" alt="Audio Visualizer" />
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://open.spotify.com/track/6rFckZb1cuJYzsZiGHgqks">↗ Spotify</a>
-</p>
+<div align="center">
+  <div align="left" style="display: inline-block; text-align: left;">
+    <a href="https://open.spotify.com/track/6rFckZb1cuJYzsZiGHgqks"><img align="left" width="120" height="120" src="./assets/music/52_bars.jpg" alt="52 Bars - Karan Aujla" style="margin-right: 18px; border-radius: 6px;"/></a>
+    <b>52 Bars</b><br/>
+    <sub>Karan Aujla</sub><br/><br/>
+    <img src="./assets/music/waveform.gif" width="125" height="24" alt="Audio Visualizer" /><br/><br/>
+    <a href="https://open.spotify.com/track/6rFckZb1cuJYzsZiGHgqks">↗ Spotify</a>
+    <br clear="left"/>
+  </div>
+</div>
 
 ---
 
