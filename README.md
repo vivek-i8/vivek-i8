@@ -27,7 +27,7 @@ An AI agent for financial exceptions that investigates payment issues, reasons o
 
 #### [SkySense AI](https://github.com/vivek-i8/skysense-ai)
 A weather intelligence platform combining forecasting, a conversational assistant, and a full-stack web application.  
-<sub><img src="./assets/icons/python.svg" width="14" height="14" valign="middle"/> Python &nbsp;·&nbsp; <img src="./assets/icons/fastapi.svg" width="14" height="14" valign="middle"/> FastAPI &nbsp;·&nbsp; <img src="./assets/icons/react.svg" width="14" height="14" valign="middle"/> React &nbsp;·&nbsp; <img src="./assets/icons/typescript.svg" width="14" height="14" valign="middle"/> TypeScript &nbsp;·&nbsp; Groq</sub>
+<sub><img src="./assets/icons/python.svg" width="14" height="14" valign="middle"/> Python &nbsp;·&nbsp; <img src="./assets/icons/fastapi.svg" width="14" height="14" valign="middle"/> FastAPI &nbsp;·&nbsp; <img src="./assets/icons/react.svg" width="14" height="14" valign="middle"/> React &nbsp;·&nbsp; <img src="./assets/icons/typescript.svg" width="14" height="14" valign="middle"/> TypeScript &nbsp;·&nbsp; <img src="./assets/icons/groq.svg" width="14" height="14" valign="middle"/> Groq</sub>
 
 #### [Vaani](https://github.com/vivek-i8/vaani-voice-authenticity)
 A voice authenticity system combining Wav2Vec2 embeddings and acoustic features to detect AI-generated voice clones.  
