@@ -74,10 +74,12 @@ A semantic movie recommendation engine using sentence embeddings and determinist
 <div align="center">
   <div align="left" style="display: inline-block; text-align: left;">
     <a href="https://open.spotify.com/track/6rFckZb1cuJYzsZiGHgqks"><img align="left" width="120" height="120" src="./assets/music/52_bars.jpg" alt="52 Bars - Karan Aujla" style="margin-right: 18px; border-radius: 6px;"/></a>
-    <b>52 Bars</b><br/>
-    <sub>Karan Aujla</sub><br/><br/>
-    <img src="./assets/music/waveform.gif" width="125" height="24" alt="Audio Visualizer" /><br/><br/>
-    <a href="https://open.spotify.com/track/6rFckZb1cuJYzsZiGHgqks">↗ Spotify</a>
+    <div style="display: inline-block; vertical-align: top;">
+      <b>52 Bars</b><br/>
+      <sub>Karan Aujla</sub><br/><br/>
+      <img src="./assets/music/waveform.gif" width="125" height="24" alt="Audio Visualizer" /><br/><br/>
+      <a href="https://open.spotify.com/track/6rFckZb1cuJYzsZiGHgqks">↗ Spotify</a>
+    </div>
     <br clear="left"/>
   </div>
 </div>
