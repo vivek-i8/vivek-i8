@@ -13,7 +13,9 @@ When the idea calls for it, I go full stack too. APIs, databases, backend servic
 And honestly, AI is a pretty fun field to be building in right now. New models keep dropping, frameworks keep changing, and the definition of “best” seems to have a half-life of about two weeks. I like keeping up with it, trying things out, and figuring out what’s actually worth building with.
 </p>
 </div>
-<p align="center"><sub>· &nbsp; · &nbsp; ·</sub></p>
+
+<hr>
+
 <p align="center"><em>Selected Builds</em></p>
 
 <div align="center">
@@ -41,7 +43,9 @@ A semantic movie recommendation engine using sentence embeddings and determinist
 
 </div>
 </div>
-<p align="center"><sub>· &nbsp; · &nbsp; ·</sub></p>
+
+<hr>
+
 <p align="center"><em>Built With</em></p>
 
 <p align="center">
@@ -62,8 +66,10 @@ A semantic movie recommendation engine using sentence embeddings and determinist
   <img src="./assets/icons/aws.svg" width="14" height="14" valign="middle"/> AWS &nbsp;&nbsp;·&nbsp;&nbsp;
   <img src="./assets/icons/git.svg" width="14" height="14" valign="middle"/> Git
 </p>
-<p align="center"><sub>· &nbsp; · &nbsp; ·</sub></p>
-<p align="center" style="margin-bottom: 24px;"><em>my version of caffeine</em></p>
+
+<hr>
+
+<p align="center"><em>my version of caffeine</em></p>
 
 <div align="center">
   <table>
@@ -80,6 +86,9 @@ A semantic movie recommendation engine using sentence embeddings and determinist
     </tr>
   </table>
 </div>
+
+<br>
+
 <p align="center">
   always building &nbsp;·&nbsp; always learning<br>
   <a href="https://github.com/vivek-i8">GitHub</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/vivekkumawat18">LinkedIn</a> &nbsp;·&nbsp; <a href="https://vivekkumawat-portfolio.vercel.app">Website</a> &nbsp;·&nbsp; <a href="mailto:vivekk.codes@gmail.com">Email</a>
